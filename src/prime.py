@@ -3,6 +3,7 @@
 #1) Write a function to test primes using as many tricks as I can derive
 #2) Add caching to the algorithm
 #3) Write test script that times the algorithm and compares answers to known results on the web
+#4) Program for prime number
 
 '''Informal Proof:
       All integers can be written in the form:
